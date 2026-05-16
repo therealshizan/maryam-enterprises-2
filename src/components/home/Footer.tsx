@@ -1,6 +1,6 @@
 import { Phone, Mail, MapPin } from "lucide-react";
 
-import Logo from "../../assets/maryam-enterprises.png";
+import Logo from "../../assets/maryam-logo.png";
 import { LiaLinkedin } from "react-icons/lia";
 import { FaFacebook } from "react-icons/fa";
 import { BsInstagram } from "react-icons/bs";

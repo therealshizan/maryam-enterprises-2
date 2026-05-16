@@ -3,8 +3,8 @@ import { useNavigate, useLocation } from "react-router-dom";
 import { Menu, Phone } from "lucide-react";
 import { Button } from "../../components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "../../components/ui/sheet";
-import logo from "../../assets/maryam-enterprises.png";
-import orangeLogo from "../../assets/maryam-enterprises-orange.png";
+import logo from "../../assets/maryam-logo.png";
+import orangeLogo from "../../assets/blue-red-maryam-logo.png";
 
 const NAV = [
   { label: "Home", href: "/" },

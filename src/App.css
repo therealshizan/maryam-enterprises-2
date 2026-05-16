@@ -34,6 +34,7 @@
   --color-navy-foreground: var(--navy-foreground);
   --font-display: "Roboto Condensed", sans-serif;
   --font-sans: "Raleway", sans-serif;
+  --text-primary: "#0D63D6";
 }
 
 :root {
@@ -52,7 +53,7 @@
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.18 0.03 250);
 
-  --primary: oklch(0.72 0.16 60);
+  --primary: oklch(0.72 0.04 245);
   /* warm amber */
   --primary-foreground: oklch(0.18 0.03 250);
 
